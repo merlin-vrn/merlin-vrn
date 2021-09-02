@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning many things, including Number theory, explore Fortunes algorithm
+- 🔭 My goal currently is to write a helper tool for children to make animations using our draw, cut, lay, shoot and combine technology. The tool needs to do warping and morphing, for which I plan to employ Voronoi diagrams and this is why I'm interested in Fortunes algorithm
+- 📫 You can find me here, on Twitter as @merlin_vrn or on Habrahabr as @merlin-vrn
