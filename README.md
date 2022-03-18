@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning many things, including Number theory, explore Fortunes algorithm
-- 🔭 My goal currently is to write a helper tool for children to make animations using our draw, cut, lay, shoot and combine technology. The tool needs to do warping and morphing, for which I plan to employ Voronoi diagrams and this is why I'm interested in Fortunes algorithm
+- 👯 I am a leading linux system and network administrator. My LinkedIn profile: https://www.linkedin.com/in/nikita-kipriyanov/
+- 💬 I also sometimes answer and ask questions on ServerFault: https://serverfault.com/users/325117/nikita-kipriyanov
 - 📫 You can find me here, on Twitter as @merlin_vrn or on Habrahabr as @merlin-vrn
+- 🔭 My goal currently is to emigrate Russia. There is nothing good in this war, and I do not want to support it, even indirectly, by paying taxes, buying things and doing my job in this country.
